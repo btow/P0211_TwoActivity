@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">P0211_TwoActivity</string>
+    <string name="goBtn_two">Go to Acticity Two</string>
+    <string name="this_is_activity_two">This is Activity Two</string>
+    <string name="goBtn_three">Go to Activivty Three</string>
+    <string name="this_is_activity_three">This is Activity Three</string>
+    <string name="goBtn_one">Go to Activity One</string>
+</resources>
